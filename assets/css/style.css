@@ -2,8 +2,16 @@
 header {
     background-color: #4CAF50;
     color: white;
-    padding: 10px;
+    padding: 0; /* Menghapus padding agar gambar bisa menempel ke bagian atas */
     text-align: center;
+}
+
+/* Gaya untuk Gambar Header */
+header img {
+    width: 100%; /* Membuat gambar memenuhi lebar layar */
+    height: auto;
+    max-height: 400px; /* Membatasi tinggi gambar agar tidak terlalu besar */
+    object-fit: cover; /* Memastikan gambar tetap proporsional */
 }
 
 /* Gaya untuk Judul Halaman */
