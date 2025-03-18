@@ -3,14 +3,21 @@ layout: default
 title: Home
 ---
 
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+# Blog Tugas Kelompok
 
-# Selamat datang di Blog Tugas Kelompok!
+Berikut adalah daftar tugas yang telah kami kerjakan:
 
-Ini adalah halaman utama blog kami. Di sini kami akan memposting hasil tugas dan diskusi kelompok terkait materi yang diajarkan.
+### ![Tugas 1 Image](assets/images/tugas1.jpg)  
+## [Tugas 1: Liburan Murah ke Bali](task1.html)
+Tanggal: May 11, 2020  
+Catperku.com (Travel Blogger Indonesia) – Jika pepatah mengatakan ada banyak jalan menuju Roma...
 
-## Tugas 1
-Deskripsi tugas pertama yang diberikan dosen.
+### ![Tugas 2 Image](assets/images/tugas2.jpg)  
+## [Tugas 2: Ramen Halal dan Tempat Makan Halal Jepang!](task2.html)
+Tanggal: May 10, 2020  
+Catperku.com (Travel Blogger Indonesia) – Adalah Ramen (ラーメン), makanan khas Jepang yang paling digemari...
 
-## Tugas 2
-Deskripsi tugas kedua yang diberikan dosen.
+### ![Tugas 3 Image](assets/images/tugas3.jpg)  
+## [Tugas 3: Sunsetnya Cakep, dan Banyak Surfer Keren di Pantai Suluban!](task3.html)
+Tanggal: May 9, 2020  
+Catperku.com (Travel Blogger Indonesia) – Pantai yang satu ini dikenal memiliki dua nama meskipun sebenarnya masih berada di satu lokasi...
