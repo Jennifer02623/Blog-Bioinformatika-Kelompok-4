@@ -1,0 +1,44 @@
+/* Background Color untuk Header */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Gaya untuk Judul Halaman */
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 3em;
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Gaya untuk Paragraf */
+p {
+    font-family: 'Georgia', serif;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Styling untuk Link */
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Tambahan Gaya untuk Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
